@@ -86,7 +86,7 @@ def moon_phase_mapped(moon_phase):
         return "0.00"  # default value if conversion fails
 
 # Enter your API key here
-api_key = "dc790c7357097803a290acfcc4d277c7"
+api_key = "api key here"
  
 # base_url variable to store url
 base_url = "https://api.openweathermap.org/data/3.0/onecall?"

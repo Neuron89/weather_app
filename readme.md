@@ -38,3 +38,6 @@ So far I have accomplished
 
 ---
 #### outcome
+---
+ As of now, I have the code displaying the information in the terminal. This is only as a reference and will be cleaned to give a more streamlined and useful output. 
+ 

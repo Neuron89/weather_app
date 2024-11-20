@@ -41,8 +41,8 @@ So far I have accomplished
   - Used the information to display the weather conditions in a graphical format
   - Referenced time of day to compare sunrise/sunset to display a sun/moon
   - Used a statement to map ranges to specific numbers to add graphical moon phases when displaying the moon
-    ![range for moon_phase](https://imgur.com/a/AUka8ib)
-- Json
+    [Imgur](https://imgur.com/vgN4SER)
+  - Json
   - imported the information
   - Exported the information as JSON
     - trying to figure out how to add this to _fastfetch._

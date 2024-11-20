@@ -41,7 +41,7 @@ So far I have accomplished
   - Used the information to display the weather conditions in a graphical format
   - Referenced time of day to compare sunrise/sunset to display a sun/moon
   - Used a statement to map ranges to specific numbers to add graphical moon phases when displaying the moon
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/vgN4SER" data-context="false" ><a href="//imgur.com/a/vgN4SER"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    ![pic](https://imgur.com/vgN4SER)
   - Json
   - imported the information
   - Exported the information as JSON

@@ -40,7 +40,7 @@ So far I have accomplished
 - Logic statements
   - Used the information to display the weather conditions in a graphical format
   - Referenced time of day to compare sunrise/sunset to display a sun/moon
-    ![day](./screenshots/day_case.png) ![night](./screenshots/night_case.png)
+    | ![day](./screenshots/day_case.png) | ![night](./screenshots/night_case.png) |
   - Used a statement to map ranges to specific numbers to add graphical moon phases when displaying the moon
     ![pic](./screenshots/range_moon_phase.png)
   - Json

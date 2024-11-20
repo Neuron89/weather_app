@@ -41,7 +41,7 @@ So far I have accomplished
   - Used the information to display the weather conditions in a graphical format
   - Referenced time of day to compare sunrise/sunset to display a sun/moon
   - Used a statement to map ranges to specific numbers to add graphical moon phases when displaying the moon
-    ![pic](https://imgur.com/vgN4SER)
+    ![pic](./screenshots/range_moon_phase.png)
   - Json
   - imported the information
   - Exported the information as JSON
